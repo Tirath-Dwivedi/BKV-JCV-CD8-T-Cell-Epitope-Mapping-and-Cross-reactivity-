@@ -20,3 +20,8 @@ Upon execution, the script generates two output files: results_BKV_crossreactive
 
 Adjustments:
 Modify the file paths in the script if the input file locations or names change. Customize additional data processing or visualization as needed for further analysis.
+
+## BLOSUM workflow
+
+![BLOSUM workflow](BLOSUM%20workflow.png)
+
